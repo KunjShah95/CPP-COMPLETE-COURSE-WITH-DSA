@@ -1,0 +1,9 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
+    "files.associations": {
+        "typeinfo": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "editor.acceptSuggestionOnEnter": "on",
+    "pieces.autocomplete": true
+}

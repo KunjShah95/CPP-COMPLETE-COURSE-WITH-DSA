@@ -1,11 +1,12 @@
 {
-    "C_Cpp.errorSquiggles": "disabled",
-    "files.associations": {
-        "iostream": "cpp",
-        "string": "cpp",
-        "new": "cpp"
-    },
-    "pieces.cloudCapabilities": "Blended",
-    "pieces.telemetry": true,
-    "editor.acceptSuggestionOnEnter": "on"
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "iostream": "cpp",
+    "string": "cpp",
+    "new": "cpp"
+  },
+  "pieces.cloudCapabilities": "Blended",
+  "pieces.telemetry": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "C_Cpp.default.compilerPath": ""
 }
